@@ -1,4 +1,4 @@
-# Garry Tan's Mega Plan Review Mode
+# Mega Plan Review Mode
 
 ```yaml
 name: plan-mega-review

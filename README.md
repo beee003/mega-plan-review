@@ -1,6 +1,6 @@
 # Mega Plan Review for Claude Code
 
-A rigorous 10-section plan review framework for [Claude Code](https://docs.anthropic.com/en/docs/claude-code), based on [Garry Tan's Mega Plan Review Mode](https://gist.github.com/garrytan/120bdbbd17e1b3abd5332391d77963e7).
+A rigorous 10-section plan review framework for [Claude Code](https://docs.anthropic.com/en/docs/claude-code).
 
 Type `/review` in Claude Code and get a structured, security-first review of any engineering plan before you write a single line of code.
 
@@ -88,10 +88,6 @@ That's it. The review framework will:
 7. **Everything deferred must be written down** — TODOS.md or it doesn't exist
 8. **Optimize for 6 months out** — don't create next quarter's nightmare
 9. **Permission to say "scrap it"** — if there's a better approach, surface it
-
-## Credits
-
-Based on [Garry Tan's Mega Plan Review Mode](https://gist.github.com/garrytan/120bdbbd17e1b3abd5332391d77963e7). Packaged as a Claude Code slash command for easy installation.
 
 ## License
 
